@@ -1,4 +1,4 @@
-playload:
+payload:
   - DOMAIN-SUFFIX,freedidi.com
   - DOMAIN-SUFFIX,ntp.org
   - DOMAIN-KEYWORD,amazon
