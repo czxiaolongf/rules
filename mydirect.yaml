@@ -2,5 +2,5 @@ payload:
   # > mydirect
   - DOMAIN-SUFFIX,freedidi.com
   - DOMAIN-SUFFIX,ntp.org
-  - DOMAIN-KEYWORD,amazon
-  - DOMAIN-SUFFIX,firetvcaptiveportal.com
+#  - DOMAIN-KEYWORD,amazon
+#  - DOMAIN-SUFFIX,firetvcaptiveportal.com
