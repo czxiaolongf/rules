@@ -1,4 +1,5 @@
 payload:
+  # > mydirect
   - DOMAIN-SUFFIX,freedidi.com
   - DOMAIN-SUFFIX,ntp.org
   - DOMAIN-KEYWORD,amazon
