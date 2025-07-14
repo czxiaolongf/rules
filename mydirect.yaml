@@ -4,6 +4,6 @@ payload:
   - DOMAIN-SUFFIX,ntp.org
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,cpolar
-  - DOMAIN-SUFFIX,unpkg.com
+#  - DOMAIN-SUFFIX,unpkg.com
 #  - DOMAIN-KEYWORD,amazon
 #  - DOMAIN-SUFFIX,firetvcaptiveportal.com
