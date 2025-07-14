@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,freedidi.com
   - DOMAIN-SUFFIX,ntp.org
   - DOMAIN-SUFFIX,snssdk.com
-  - PROCESS-NAME,cpolar
+  - DOMAIN-SUFFIX,cpolar
+  - DOMAIN-SUFFIX,unpkg.com
 #  - DOMAIN-KEYWORD,amazon
 #  - DOMAIN-SUFFIX,firetvcaptiveportal.com
