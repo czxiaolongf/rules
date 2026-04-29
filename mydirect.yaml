@@ -1,0 +1,39 @@
+payload:
+  # > mydirect
+  - DOMAIN-SUFFIX,freedidi.com
+  - DOMAIN-SUFFIX,ntp.org
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,cpolar.com
+  - PROCESS-NAME,cpolar
+  - DOMAIN-SUFFIX,dbankcloud.com
+  - PROCESS-NAME,tailscaled
+  - DOMAIN-KEYWORD,tailscale
+  - DOMAIN-SUFFIX,xiaolongf.xiaolongf.workers.dev
+  - DOMAIN-SUFFIX,click.mz.simba.taobao.com
+  - DOMAIN-SUFFIX,mclick.simba.taobao.com
+  - DOMAIN-SUFFIX,fourier.taobao.com
+#  - DOMAIN-SUFFIX,s86lk.space
+#  - DOMAIN-SUFFIX,kzsiok.com
+#  - DOMAIN-SUFFIX,mzstatic.com
+
+#OUO订阅直连
+  - DOMAIN-SUFFIX,selectgroup.click
+
+# Microsoft Team
+  - IP-CIDR,52.115.102.32/32
+
+#  - DOMAIN-SUFFIX,click.mz.simba.taobao.com
+
+#  - DOMAIN-SUFFIX,booking.com
+
+  #Oracle
+  - IP-CIDR,192.9.143.100/32
+  - DOMAIN-SUFFIX,xiaolongf.abrdns.com
+  - IP-CIDR,155.248.209.68/32
+  - IP-CIDR,146.235.234.122/32
+  - IP-CIDR,163.192.40.214/32
+  - IP-CIDR,192.18.141.214/32
+  - DOMAIN-SUFFIX,xiaolongf.site
+#  - DOMAIN-SUFFIX,unpkg.com
+#  - DOMAIN-KEYWORD,amazon
+#  - DOMAIN-SUFFIX,firetvcaptiveportal.com
