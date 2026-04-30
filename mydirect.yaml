@@ -15,7 +15,9 @@ payload:
 #  - DOMAIN-SUFFIX,s86lk.space
 #  - DOMAIN-SUFFIX,kzsiok.com
 #  - DOMAIN-SUFFIX,mzstatic.com
-
+   - SRC-IP-CIDR,192.168.0.240/28 #防蹭网IP段
+   - SRC-IP-CIDR,192.168.0.31/32 #小黑手机
+   - SRC-IP-CIDR,192.168.0.8/32  #Oray蒲公英
 #OUO订阅直连
   - DOMAIN-SUFFIX,selectgroup.click
 
