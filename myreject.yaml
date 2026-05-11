@@ -2,3 +2,5 @@ payload:
   # > myreject
   - DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com #菜鸟
   - DOMAIN-SUFFIX,ssp.iytcdn.com #菜鸟
+  - DOMAIN-SUFFIX,adashx.ut.cainiao.com #菜鸟
+  - DOMAIN-SUFFIX,msgacs.m.taobao.com #菜鸟
