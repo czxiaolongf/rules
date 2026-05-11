@@ -1,4 +1,4 @@
 payload:
   # > myreject
-  - DOMAIN-SUFFIX, lf-cdn-tos.bytescm.com #菜鸟
+  - DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com #菜鸟
   - DOMAIN-SUFFIX,ntp.org #ssp.iytcdn.com #菜鸟
