@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,ntp.org #time
   - DOMAIN-SUFFIX,immi.gov.au #澳洲签证
   - DOMAIN-SUFFIX,kefirgames.ru #地球末日生存
+  - DOMAIN-SUFFIX,kefirgames.com #地球末日生存
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,cpolar.com
   - PROCESS-NAME,cpolar
