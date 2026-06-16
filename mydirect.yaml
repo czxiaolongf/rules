@@ -2,6 +2,7 @@ payload:
   # > mydirect
   - DOMAIN-SUFFIX,freedidi.com #零度博客
   - DOMAIN-SUFFIX,ntp.org #time
+  - DOMAIN-SUFFIX,immi.gov.au #澳洲签证
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,cpolar.com
   - PROCESS-NAME,cpolar
