@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,ntp.org #time
   - DOMAIN-SUFFIX,immi.gov.au #澳洲签证
   - DOMAIN-SUFFIX,homeaffairs.gov.au #澳洲签证
+  - DOMAIN-SUFFIX,mclick.simba.taobao.com #淘宝
 #  - DOMAIN-SUFFIX,kefirgames.ru #地球末日生存
 #  - DOMAIN-SUFFIX,kefirgames.com #地球末日生存
 #  - DOMAIN-SUFFIX,kefir.games #地球末日生存
