@@ -1,6 +1,7 @@
 payload:
   # > mydirect
   - DOMAIN-SUFFIX,freedidi.com #零度博客
+  - DOMAIN-SUFFIX,cdn-apple.com #苹果更新
   - DOMAIN-SUFFIX,ntp.org #time
   - DOMAIN-SUFFIX,immi.gov.au #澳洲签证
 #  - DOMAIN-SUFFIX,homeaffairs.gov.au #澳洲签证
