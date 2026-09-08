@@ -42,6 +42,6 @@ payload:
   - IP-CIDR,163.192.40.214/32
   - IP-CIDR,64.181.231.111/32
   - IP-CIDR,161.118.236.94/32 #Singapore1
-  - IP-CIDR,140.245.115.147/32 #Singapore2
+  - IP-CIDR,161.118.227.6/32 #Singapore2
   - DOMAIN-SUFFIX,xiaolongf.site
 
